@@ -16,6 +16,8 @@ main {
     color: #ec04a7;
     margin: auto;
     padding: 16px;
+
+    display: flex;
 }
 
 article {
