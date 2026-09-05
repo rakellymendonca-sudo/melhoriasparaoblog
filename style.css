@@ -22,6 +22,8 @@ main {
 
 article {
     display: flex;
+
+    border: 1px solid #f2b0d1;
 }
 
 img {
