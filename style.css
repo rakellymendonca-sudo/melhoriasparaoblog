@@ -22,7 +22,7 @@ header {
 
 main {
     background-color: var(--cor-fundo);
-    color: #ec04a7;
+    color: var(--cor-texto);
     margin: auto;
     padding: 16px;
 
