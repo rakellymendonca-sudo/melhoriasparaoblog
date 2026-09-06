@@ -17,4 +17,4 @@
     }
     )
 
-const btnTemaEscuro = 
+const btnTemaEscuro = document.querySelector("btn-tema-escuro");
