@@ -64,8 +64,7 @@ main {
 
 article {
     display: flex;
-
-    border: 1px solid var(--cor-primaria);
+    
 
     margin: 16px;
     gap: 16px;
