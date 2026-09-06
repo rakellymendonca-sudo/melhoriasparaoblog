@@ -13,7 +13,7 @@ body{
 
 header {
     background-color: var(--cor-primaria);
-    color: #FFFFFF;
+    color: var(--cor-contraste);
     text-align: center;
     margin: 0 auto;
     padding: 16px;
