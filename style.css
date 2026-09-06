@@ -9,6 +9,10 @@
     --font-texto: 'Times New Roman', serif;
 }
 
+*{
+    
+}
+
 .tema-escuro{
     --cor-primaria: #be5a8c;
     --cor-secundaria: #ff69b6;
