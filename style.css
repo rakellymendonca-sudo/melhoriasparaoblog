@@ -35,6 +35,10 @@ body{
     font-family: var(--font-texto);
 }
 
+.tema-escuro .btn-tema-escuro{
+    background: var(--cor-secundaria);
+}
+
 header {
     background-color: var(--cor-primaria);
     color: var(--cor-contraste);
