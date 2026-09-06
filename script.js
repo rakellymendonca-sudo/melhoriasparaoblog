@@ -18,4 +18,4 @@
     )
 
 const btnTemaEscuro = document.querySelector("btn-tema-escuro");
-btnTemaEscuro.addEventListener("click", botaoClicado);
+btnTemaEscuro.addEventListener("click", mudaTema);
