@@ -17,7 +17,7 @@
 }
 
 .tema-escuro a {
-    
+    color: var(--cor-secundaria);
 }
 
 body{
